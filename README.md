@@ -1,0 +1,1 @@
+ the files contains codes a web application with two pages: a product list page and an add product page. This task assesses your basic skills and knowledge needed to start as a Junior Developer at Scandiweb.
